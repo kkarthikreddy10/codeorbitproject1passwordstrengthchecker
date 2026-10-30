@@ -32,7 +32,7 @@ A strong password must contain:
 3. Run the following command:
 
 ```bash
-python password_checker.py
+python passwordstrengthchecker.py
 ```
 
 ## 💻 Sample Output
